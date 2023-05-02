@@ -3,7 +3,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMJIHYEON1994&hide=stars&hide_title=true&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyeon117&hide=stars&hide_title=true&show_icons=true&theme=vue)
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
