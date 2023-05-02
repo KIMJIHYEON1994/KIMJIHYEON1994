@@ -24,7 +24,7 @@
 </p>
 
 <!--
-**KIMJIHYEON1994/KIMJIHYEON1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jihyeon117/jihyeon117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
