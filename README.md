@@ -6,6 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyeon117&hide=stars&hide_title=true&show_icons=true&theme=vue)
 </div>
 
+---
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -23,10 +25,18 @@
   <a href="https://velog.io/@jilog_94"><img src="https://img.shields.io/badge/jilog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
 </p>
 
+---
+
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeon117&layout=compact)](https://github.com/jihyeon117/github-readme-stats)
 </div>
+
+<!-- <div align="center">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh3968)](https://solved.ac/kjh3968)
+</div> -->
 
 <!--
 **jihyeon117/jihyeon117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
