@@ -3,8 +3,6 @@
 <h2 align="center">
 안녕하세요 백엔드 개발자를 꿈꾸고 있는 김지현입니다
 </h2>
-
----
   
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
