@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=KIMJIHYEON&animation=fadeIn&fontSize=80&fontAlign=50&fontAlignY=43)
 
+<h2 align="center">
+안녕하세요 백엔드 개발자를 꿈꾸고 있는 김지현입니다
+</h2>
+  
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
