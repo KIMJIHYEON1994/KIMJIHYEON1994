@@ -23,8 +23,9 @@
 
 <h3 align="center">🌈 My Projects 🌈</h3>
 <p align="center">
-  <p align="center">혼술짝 : <a href="https://www.notion.so/1-27cf11df4cc34534b9293d493236c167?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4)">
-  <p align="center">뀌뀨 : <a href="https://www.notion.so/QquickQqueue-Q-Q-bcf83a4bce6448bb82739f4f13536b04?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4)">
+  <a href="https://www.notion.so/1-27cf11df4cc34534b9293d493236c167?pvs=4"><img src="https://img.shields.io/badge/혼술짝-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4)">
+  <br>
+  <a href="https://www.notion.so/QquickQqueue-Q-Q-bcf83a4bce6448bb82739f4f13536b04?pvs=4"><img src="https://img.shields.io/badge/뀌뀨-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4)">
 </p>
 
 ---
