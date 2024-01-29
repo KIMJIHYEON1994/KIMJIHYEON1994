@@ -26,7 +26,7 @@
 
 <h3 align="center">🌈 My Study 🌈</h3>
 <p align="center">
-  <a href="[https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4](https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4)">
+  <a href="https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4)">
 </p>
 
 ---
