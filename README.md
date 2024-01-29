@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">🌈 My Study 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@jilog_94"><img src="https://img.shields.io/badge/jilog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
+  <a href="[https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4](https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a0d2168f330940ce8fcddbcfe9357715?pvs=4)">
 </p>
 
 ---
